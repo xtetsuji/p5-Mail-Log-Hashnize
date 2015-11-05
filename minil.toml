@@ -1,0 +1,4 @@
+name = "Mail-Log-Hashnize"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+
